@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "id": "de",
+  "name": "Deutsch",
+  "version": 1,
+  "layout": "qwertz",
+  "digraphs": {"ß": "ss", "ä": "ae", "ö": "oe", "ü": "ue"},
+  "nounCapitals": true
+}
