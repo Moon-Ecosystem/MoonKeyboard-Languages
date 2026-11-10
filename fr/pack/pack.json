@@ -1,0 +1,8 @@
+{
+  "format": 1,
+  "id": "fr",
+  "name": "Français",
+  "version": 1,
+  "layout": "azerty",
+  "digraphs": {"œ": "oe", "æ": "ae"}
+}
