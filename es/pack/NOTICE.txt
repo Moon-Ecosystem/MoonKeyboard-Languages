@@ -1,0 +1,17 @@
+Moon Keyboard Spanish language pack (Español)
+
+The layout and settings are licensed under the MIT License (see the repository's LICENSE).
+The dictionary (es.dict) is built from the sources below and is licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+- AOSP LatinIME Spanish word list (es_wordlist.combined)
+  Copyright (c) 2008, The Android Open Source Project
+  Licensed under the Apache License, Version 2.0: https://www.apache.org/licenses/LICENSE-2.0
+  https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/refs/heads/main/dictionaries/
+
+- Word-pair counts derived from Tatoeba Spanish sentences (https://tatoeba.org)
+  Licensed under CC BY 2.0 FR: https://creativecommons.org/licenses/by/2.0/fr/
+
+- Word-pair counts derived from Mozilla Common Voice's Spanish sentence collection
+  (https://github.com/common-voice/common-voice, server/data/es/sentence-collector.txt)
+  Released under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
