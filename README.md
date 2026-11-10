@@ -6,7 +6,8 @@ Language packs for [Moon Keyboard](https://github.com/Moon-Ecosystem/MoonKeyboar
 
 | Language | Layout | Needs app version | Licence |
 |---|---|---|---|
-| Deutsch (German) | QWERTZ with ü ö ä | coming soon | CC BY 4.0 |
+| Deutsch (German) | QWERTZ with ü ö ä | 0.8 or newer | CC BY 4.0 |
+| Français (French) | AZERTY | 0.8 or newer | CC BY 4.0 |
 
 ## Installing a pack
 
